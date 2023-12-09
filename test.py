@@ -1,4 +1,6 @@
 # BEGIN: FILEPATH: /C:/Users/lucas/Documents/GitHub/wrapup-day2/test.txt
+def multiply(x, y):
+    return x * y
 
 def add(x, y, z):
     return x + y + z
